@@ -4,7 +4,9 @@ I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison, and 
 
 ## SVM-based algorithms for Multiple Instance Learning
 
-[`mildsvm`](https://github.com/skent259/mildsvm) is an R package that implements functions to train a variety of models for multiple instance learning, a subset of machine learning where rows of data are grouped into bags and only outcomes on the bags are observed.  This incorporates methods proposed by our reserach where instances can be thought of as probability distributions and where the outcome label is ordinal.  It also includes previous SVM-based algorithms from the literature, including Andrews, Tsochantaridis, and Hofmann (2003) [Support Vector Machines for Multiple-Instance Learning](https://proceedings.neurips.cc/paper/2002/file/3e6260b81898beacda3d16db379ed329-Paper.pdf) and Xiao, Liu, and Hao (2018) [Multiple-Instance Ordinal Regression](https://ieeexplore.ieee.org/abstract/document/8107717?casa_token=-My_3w0W9PsAAAAA:3kuIvYYIFWOpNVCQl4rpI5iFBPPqdaQV57MRbC0GfWPbN45Za8YApt6-YjCeB6PomsehPuG0XjE).  This package can be installed via `install_github("skent259/mildsvm")`.  
+[`mildsvm`](https://github.com/skent259/mildsvm): Weakly supervised, multiple instance data lives in numerous interesting applications such as drug discovery, object detection, and tumor prediction on whole slide images. The `mildsvm` package provides an easy way to learn from this data by training Support Vector Machine (SVM)-based classifiers. It also contains helpful functions for building and printing multiple instance data frames. `mildsvm` includes an implementation of MI-SMM from our research paper [Kent and Yu
+    (2022)](https://arxiv.org/abs/2206.14704) "Non-convex SVM for cancer diagnosis based on morphologic features of
+tumor microenvironment". The package can be installed via `install.packages("mildsvm")` in R.  
 
 ## Causal Matching for Longitudinal Data
 
