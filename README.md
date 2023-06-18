@@ -1,6 +1,6 @@
 ### Hi! I'm Sean Kent 👋
 
-I'm a Ph.D. student in Statistics at the University of Wisconsin - Madison, and I love to write code at the intersection of statistics, machine learning, and new research.  You can see more of my experience, background, and blog posts on my website: <http://pages.stat.wisc.edu/~kent/>.  Here, I'll highlight a few of my favorite code projects.
+I love to write code at the intersection of statistics, machine learning, and new research. Here, I'll highlight a few of my favorite code projects.
 
 ## SVM-based algorithms for Multiple Instance Learning
 
@@ -14,11 +14,11 @@ tumor microenvironment". The package can be installed via `install.packages("mil
 
 ## Simulate the Game of Craps
 
-I don't gamble often&mdash;but I find craps to be the most entertaining way to lose money in a casino.  As a side-project, I developed a simulator in python ([skent259/CrapsSim](https://github.com/skent259/CrapsSim)) to test various betting strategies. With it, I analyzed the best craps strategies for players on a budget, published on [my blog](http://pages.stat.wisc.edu/~kent/blog/2019.07.31_Craps_Budget/craps_best-strategies-on-a-budget.html).  
+I don't gamble often&mdash;but, for me, the most entertaining way to lose money in a casino is playing craps.  As a side-project, I developed a simulator in python ([skent259/CrapsSim](https://github.com/skent259/CrapsSim)) to test various betting strategies. With it, I analyzed the best craps strategies for players on a budget, published on [my blog](http://pages.stat.wisc.edu/~kent/blog/2019.07.31_Craps_Budget/craps_best-strategies-on-a-budget.html).  
 
 ***
 
-The rest of my repositories are a mixture of machine learning implementations, visualizations from other contexts, talks that I've given, and more.  Feel free to check out those projects below!
+The rest of my repositories are a mixture of machine learning implementations, visualizations from other contexts, talks that I've given, and more. Feel free to check out those projects below!
 
 <!--
 **skent259/skent259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
